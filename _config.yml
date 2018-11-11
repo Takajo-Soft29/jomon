@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: サンプル
+description: サンプル
+github:
+  is_project_page: false
